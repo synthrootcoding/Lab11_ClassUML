@@ -1,0 +1,13 @@
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\bin\Debug\netcoreapp3.1\Labb11_UML.exe
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\bin\Debug\netcoreapp3.1\Labb11_UML.deps.json
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\bin\Debug\netcoreapp3.1\Labb11_UML.runtimeconfig.json
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\bin\Debug\netcoreapp3.1\Labb11_UML.runtimeconfig.dev.json
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\bin\Debug\netcoreapp3.1\Labb11_UML.dll
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\bin\Debug\netcoreapp3.1\Labb11_UML.pdb
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\obj\Debug\netcoreapp3.1\Labb11_UML.csprojAssemblyReference.cache
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\obj\Debug\netcoreapp3.1\Labb11_UML.AssemblyInfoInputs.cache
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\obj\Debug\netcoreapp3.1\Labb11_UML.AssemblyInfo.cs
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\obj\Debug\netcoreapp3.1\Labb11_UML.csproj.CoreCompileInputs.cache
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\obj\Debug\netcoreapp3.1\Labb11_UML.dll
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\obj\Debug\netcoreapp3.1\Labb11_UML.pdb
+C:\Users\synth\source\repos\Labb11_UML\Labb11_UML\obj\Debug\netcoreapp3.1\Labb11_UML.genruntimeconfig.cache
